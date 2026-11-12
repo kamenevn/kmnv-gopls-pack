@@ -1,0 +1,22 @@
+{
+  "api": 2,
+  "id": "gopls-pack",
+  "name": "Go language server (gopls)",
+  "version": "0.1.0",
+  "entry": "gopls-pack",
+  "ui": "ui.json",
+  "panel": {
+    "title": "Go (gopls)",
+    "placement": "right",
+    "icon": "g"
+  },
+  "servers": [
+    {
+      "language": "go",
+      "command": "gopls",
+      "extensions": [
+        "go"
+      ]
+    }
+  ]
+}

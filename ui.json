@@ -1,0 +1,24 @@
+{
+  "fields": [],
+  "actions": [
+    {
+      "id": "version",
+      "label": "Version"
+    }
+  ],
+  "layout": {
+    "kind": "row",
+    "children": [
+      {
+        "kind": "actions",
+        "ids": [
+          "version"
+        ]
+      },
+      {
+        "kind": "output",
+        "label": "Пакет"
+      }
+    ]
+  }
+}
