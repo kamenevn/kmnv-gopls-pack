@@ -10,7 +10,3 @@ path = "src/main.rs"
 [dependencies]
 serde_json = "1"
 
-[dev-dependencies]
-ide-plugin = { path = "../../core/crates/ide-plugin" }
-ide-plugin-api = { path = "../../core/crates/ide-plugin-api" }
-tempfile = "3"
