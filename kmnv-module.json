@@ -2,7 +2,7 @@
   "api": 2,
   "id": "gopls-pack",
   "name": "Go language server (gopls)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "entry": "gopls-pack",
   "ui": "ui.json",
   "panel": {
